@@ -1,4 +1,4 @@
 {
-  "key": "secret_number",
-  "value": 42
+  "key": "secret_string",
+  "value": "42"
 }
